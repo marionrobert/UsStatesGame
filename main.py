@@ -1,6 +1,6 @@
 import turtle
 import pandas
-print("test")
+
 FONT = FONT = ("Arial", 9, "normal")
 
 # setting the screen
