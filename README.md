@@ -18,6 +18,7 @@ Le jeu affiche une carte des États des États-Unis et demande à l'utilisateur 
 - Pyhton 3.9.6
 - module pandas
 
+#List Comprehension #pandas
 
 ## Comment Jouer ?
 
