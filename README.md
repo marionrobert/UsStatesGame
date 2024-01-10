@@ -15,8 +15,8 @@ Le jeu affiche une carte des États des États-Unis et demande à l'utilisateur 
 
 ### Installation et Configuration :
 
-- Aucune installation de modules supplémentaires n'est nécessaire pour exécuter ce script. Assurez-vous simplement d'avoir Python installé sur votre système.
 - Pyhton 3.9.6
+- module pandas
 
 
 ## Comment Jouer ?
