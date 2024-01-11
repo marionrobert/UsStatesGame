@@ -16,7 +16,7 @@ Le jeu affiche une carte des États des États-Unis et demande à l'utilisateur 
 ### Installation et Configuration :
 
 - Pyhton 3.9.6
-- module pandas
+- importation du module pandas
 
 #List Comprehension #pandas
 
